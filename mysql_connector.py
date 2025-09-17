@@ -7,7 +7,10 @@ config ={"host":"112.74.134.29",
          "port":"3307",
          "database":"bear",
          "charset":"utf8"
+
+
 }
+# //添加备注
 #2.连接数据库
 cnn=mysql.connector.connect(**config)
 
