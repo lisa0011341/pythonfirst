@@ -10,6 +10,7 @@ config ={"host":"112.74.134.29",
 
 
 }
+# ///
 # //添加备注
 #2.连接数据库
 cnn=mysql.connector.connect(**config)
